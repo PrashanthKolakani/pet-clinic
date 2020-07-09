@@ -1,4 +1,4 @@
-package com.pk.springframwork.model;
+package com.pk.springframwork.petclinic.mode;
 
 public class PetType {
 
