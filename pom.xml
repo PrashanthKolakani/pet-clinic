@@ -43,8 +43,8 @@
 	</build>
 
 	<scm>
-		<url>https://github.com/PrashanthKolakani/pet-clinic</url>
-		<connection>scm:git:https://github.com/PrashanthKolakani/pet-clinic.git</connection>
-	</scm>
+		<developerConnection>scm:git:https://github.com/PrashanthKolakani/pet-clinic.git</developerConnection>
+		<tag>HEAD</tag>
+  </scm>
 
 </project>
